@@ -1,7 +1,7 @@
 --[[ AUTOJOINER ]]
 _G.Config = {
     Token = 'MTI0MDY0ODMwMzA5NjM2OTIwMw',
-    ChannelId = '1394380291979874355',
+    ChannelId = '1394670792515784784',
     Pets = {
 	"Raccoon",
 	"T-Rex",
@@ -23,4 +23,4 @@ _G.Config = {
     MinPetKg = 1 -- this is broken, please dont change
 }
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/D4rkSpawner/autojoin/refs/heads/main/autojoin', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/autojoiner.lua', true))()
