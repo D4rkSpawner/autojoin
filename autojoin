@@ -1,7 +1,7 @@
 --[[ AUTOJOINER ]]
 _G.Config = {
-    Token = 'MTI0MDY0ODMwMzA5NjM2OTIwMw',
-    ChannelId = '1394670792515784784',
+    Token = 'MTI0MDY0ODMwMzA5NjM2OTIwMw.G4EuQY.KxIB0sURHpHhYlmhgIJ2-ZK7KqoSVIDxTaxM6k',
+    ChannelId = '1394380291979874355',
     Pets = {
 	"Raccoon",
 	"T-Rex",
